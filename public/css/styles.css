@@ -1,0 +1,50 @@
+body{
+    width: 60%;
+    margin: 0 auto;
+    background: radial-gradient(ellipse at top, #da204f, transparent),
+    radial-gradient(ellipse at bottom, #f1e319, transparent);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper-1{
+    background-color: white;
+    padding: 30px 20px;
+    margin: 20px 0;
+}
+
+.wrapper-2{
+    margin-left: 2rem;
+    text-align-center;
+}
+
+#intro{
+    color: #0000ff;
+}
+
+h2{
+    margin-bottom: 1rem;
+}
+
+
+
+#aboutMe{
+    line-height: 1.5rem;
+    display:inline-block;
+    width: 80%;
+}
+
+.btn-link{
+    display:inline-block;
+    text-transform: uppercase;
+    width: 70%;
+    font: bold 1rem Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 10px 8px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333
+
+}
